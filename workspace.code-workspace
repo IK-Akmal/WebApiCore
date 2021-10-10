@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "WebApiCore.Api"
+		},
+		{
+			"path": "WebApiCore.Data"
+		}
+	],
+	"settings": {}
+}
